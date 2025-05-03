@@ -20,7 +20,6 @@ This project is an AWS Glue-based ETL (Extract, Transform, Load) pipeline that p
 - Uses `pg8000` to handle Redshift operations like `TRUNCATE`, `UPDATE`, and `INSERT`.
 
 ## Architecture
-```plaintext
 S3 (CSV files)
    ↓
 AWS Glue (PySpark ETL)
@@ -54,15 +53,15 @@ Deploy the script in AWS Glue as a PySpark job.
 Execute the job via the AWS Glue console, CLI, or trigger-based workflow.
 
 ## Key Functions
-Function                                Purpose
----------                               --------
-main()	                                Orchestrates the ETL flow.
-readcsvfiles()	                        Reads, transforms, and cleans raw CSV data from S3.
-basicexploratoryanalysis()	            Performs basic schema and data inspection.
-summarystats_dataaggregation()	        Generates summary stats and group-wise aggregations.
-datafilteration()	                      Filters data based on conditions like sales amount and payment type.
-timebasedanalysis()	                    Aggregates sales over time and by branch.
-writetoredshiftdbfromstaging()	        Loads the final DataFrame into Redshift via staging and upserts.
+Function                                 Purpose
+---------                                --------
+main()	                                 Orchestrates the ETL flow.
+readcsvfiles()	                         Reads, transforms, and cleans raw CSV data from S3.
+basicexploratoryanalysis()	             Performs basic schema and data inspection.
+summarystats_dataaggregation()           Generates summary stats and group-wise aggregations.
+datafilteration()                        Filters data based on conditions like sales amount and payment type.
+timebasedanalysis()                      Aggregates sales over time and by branch.
+writetoredshiftdbfromstaging()           Loads the final DataFrame into Redshift via staging and upserts.
 
 ## Security & IAM
 - Ensure IAM roles assigned to Glue have permissions to:
