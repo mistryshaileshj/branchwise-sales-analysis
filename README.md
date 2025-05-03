@@ -20,7 +20,7 @@ This project is an AWS Glue-based ETL (Extract, Transform, Load) pipeline that p
 - Uses `pg8000` to handle Redshift operations like `TRUNCATE`, `UPDATE`, and `INSERT`.
 
 ## Architecture
-S3 (CSV files) -> AWS Glue (PySpark ETL) -> Data Cleaning, Transformation & Aggregation -> Amazon Redshift (Staging Table → Main Table)
+S3 (CSV files) -> AWS Glue (PySpark ETL) -> Data Cleaning, Transformation & Aggregation -> Amazon Redshift (Staging Table -> Main Table)
 
 ##  Technologies used
 - AWS Glue (ETL & job orchestration)
