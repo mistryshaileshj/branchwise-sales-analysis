@@ -35,27 +35,25 @@ s3://s3bucketname/bucketfolder/
 
 ## Configure Redshift connection parameters in the script:
 Update the following variables:
-USERNAME = 'your-redshift-username'
-PASSWORD = 'your-password'
-REDSHIFT_DATABASE_NAME = 'your-db-name'
-HOST = 'your-redshift-host'
-REDSHIFT_ROLE = 'arn:aws:iam::1234567890:role/your-role'
-REDSHIFT_JDBC_URL = 'your-jdbc-url'
-redshift_tmp_dir = 's3://your-temp-dir/'
+- USERNAME = 'your-redshift-username'
+- PASSWORD = 'your-password'
+- REDSHIFT_DATABASE_NAME = 'your-db-name'
+- HOST = 'your-redshift-host'
+- REDSHIFT_ROLE = 'arn:aws:iam::1234567890:role/your-role'
+- REDSHIFT_JDBC_URL = 'your-jdbc-url'
+- redshift_tmp_dir = 's3://your-temp-dir/'
 
 Deploy the script in AWS Glue as a PySpark job.
 Execute the job via the AWS Glue console, CLI, or trigger-based workflow.
 
-## Key Functions
-Function                                 Purpose
----------                                --------
-main()	                                 Orchestrates the ETL flow.
-readcsvfiles()	                         Reads, transforms, and cleans raw CSV data from S3.
-basicexploratoryanalysis()	             Performs basic schema and data inspection.
-summarystats_dataaggregation()           Generates summary stats and group-wise aggregations.
-datafilteration()                        Filters data based on conditions like sales amount and payment type.
-timebasedanalysis()                      Aggregates sales over time and by branch.
-writetoredshiftdbfromstaging()           Loads the final DataFrame into Redshift via staging and upserts.
+## Key Functions and it's purpose
+- main() -> Orchestrates the ETL flow.
+- readcsvfiles() -> Reads, transforms, and cleans raw CSV data from S3.
+- basicexploratoryanalysis() -> Performs basic schema and data inspection.
+- summarystats_dataaggregation() -> Generates summary stats and group-wise aggregations.
+- datafilteration() -> Filters data based on conditions like sales amount and payment type.
+- timebasedanalysis() -> Aggregates sales over time and by branch.
+- writetoredshiftdbfromstaging() -> Loads the final DataFrame into Redshift via staging and upserts.
 
 ## Security & IAM
 - Ensure IAM roles assigned to Glue have permissions to:
