@@ -1,0 +1,333 @@
+﻿Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Sales,Date,Time,Payment,cogs,gross margin percentage,gross income,Rating
+692-92-5582,Cairo,Mandalay,Member,Female,Food and beverages,54.84,3,8.226,172.746,2/20/2019,1:27:00 PM,Credit card,164.52,4.761904762,8.226,5.9
+351-62-0822,Cairo,Mandalay,Member,Female,Fashion accessories,14.48,4,2.896,60.816,02-06-2019,6:07:00 PM,Ewallet,57.92,4.761904762,2.896,4.5
+529-56-3974,Cairo,Mandalay,Member,Female,Electronic accessories,25.51,4,5.102,107.142,03-09-2019,5:03:00 PM,Cash,102.04,4.761904762,5.102,6.8
+299-46-1805,Cairo,Mandalay,Member,Female,Sports and travel,93.72,6,28.116,590.436,1/15/2019,4:19:00 PM,Cash,562.32,4.761904762,28.116,4.5
+319-50-3348,Cairo,Mandalay,Member,Female,Home and lifestyle,40.3,2,4.03,84.63,03-11-2019,3:30:00 PM,Ewallet,80.6,4.761904762,4.03,4.4
+371-85-5789,Cairo,Mandalay,Member,Female,Health and beauty,87.98,3,13.197,277.137,03-05-2019,10:40:00 AM,Ewallet,263.94,4.761904762,13.197,5.1
+273-16-6619,Cairo,Mandalay,Member,Female,Home and lifestyle,33.2,2,3.32,69.72,3/15/2019,12:20:00 PM,Credit card,66.4,4.761904762,3.32,4.4
+649-29-6775,Cairo,Mandalay,Member,Female,Fashion accessories,33.52,1,1.676,35.196,02-08-2019,3:31:00 PM,Cash,33.52,4.761904762,1.676,6.7
+145-94-9061,Cairo,Mandalay,Member,Female,Food and beverages,88.36,5,22.09,463.89,1/25/2019,7:48:00 PM,Cash,441.8,4.761904762,22.09,9.6
+871-79-8483,Cairo,Mandalay,Member,Female,Fashion accessories,94.13,5,23.5325,494.1825,2/25/2019,7:39:00 PM,Credit card,470.65,4.761904762,23.5325,4.8
+149-71-6266,Cairo,Mandalay,Member,Female,Sports and travel,78.07,9,35.1315,737.7615,1/28/2019,12:43:00 PM,Cash,702.63,4.761904762,35.1315,4.5
+640-49-2076,Cairo,Mandalay,Member,Female,Sports and travel,83.78,8,33.512,703.752,01-10-2019,2:49:00 PM,Cash,670.24,4.761904762,33.512,5.1
+777-82-7220,Cairo,Mandalay,Member,Female,Home and lifestyle,30.12,8,12.048,253.008,03-03-2019,1:01:00 PM,Cash,240.96,4.761904762,12.048,7.7
+280-35-5823,Cairo,Mandalay,Member,Female,Home and lifestyle,86.72,1,4.336,91.056,1/17/2019,6:45:00 PM,Ewallet,86.72,4.761904762,4.336,7.9
+354-25-5821,Cairo,Mandalay,Member,Female,Sports and travel,69.12,6,20.736,435.456,02-08-2019,1:03:00 PM,Cash,414.72,4.761904762,20.736,5.6
+132-32-9879,Cairo,Mandalay,Member,Female,Electronic accessories,93.96,4,18.792,394.632,03-09-2019,6:00:00 PM,Cash,375.84,4.761904762,18.792,9.5
+370-41-7321,Cairo,Mandalay,Member,Female,Health and beauty,56.69,9,25.5105,535.7205,2/27/2019,5:24:00 PM,Credit card,510.21,4.761904762,25.5105,8.4
+727-46-3608,Cairo,Mandalay,Member,Female,Food and beverages,20.01,9,9.0045,189.0945,02-06-2019,3:47:00 PM,Ewallet,180.09,4.761904762,9.0045,4.1
+669-54-1719,Cairo,Mandalay,Member,Female,Electronic accessories,18.93,6,5.679,119.259,02-10-2019,12:45:00 PM,Credit card,113.58,4.761904762,5.679,8.1
+616-24-2851,Cairo,Mandalay,Member,Female,Fashion accessories,17.87,4,3.574,75.054,3/22/2019,2:42:00 PM,Ewallet,71.48,4.761904762,3.574,6.5
+242-55-6721,Cairo,Mandalay,Member,Female,Home and lifestyle,16.16,2,1.616,33.936,03-07-2019,11:49:00 AM,Ewallet,32.32,4.761904762,1.616,6.5
+347-34-2234,Cairo,Mandalay,Member,Female,Sports and travel,55.07,9,24.7815,520.4115,02-03-2019,1:40:00 PM,Ewallet,495.63,4.761904762,24.7815,10
+853-23-2453,Cairo,Mandalay,Member,Female,Health and beauty,75.74,4,15.148,318.108,2/14/2019,2:35:00 PM,Cash,302.96,4.761904762,15.148,7.6
+109-28-2512,Cairo,Mandalay,Member,Female,Fashion accessories,97.61,6,29.283,614.943,01-07-2019,3:01:00 PM,Ewallet,585.66,4.761904762,29.283,9.9
+510-95-6347,Cairo,Mandalay,Member,Female,Food and beverages,48.52,3,7.278,152.838,03-05-2019,6:17:00 PM,Ewallet,145.56,4.761904762,7.278,4
+847-38-7188,Cairo,Mandalay,Member,Female,Food and beverages,96.68,3,14.502,304.542,1/26/2019,7:56:00 PM,Ewallet,290.04,4.761904762,14.502,6.4
+318-68-5053,Cairo,Mandalay,Member,Female,Health and beauty,76.99,6,23.097,485.037,2/27/2019,5:55:00 PM,Cash,461.94,4.761904762,23.097,6.1
+152-08-9985,Cairo,Mandalay,Member,Female,Health and beauty,64.36,9,28.962,608.202,03-12-2019,12:09:00 PM,Credit card,579.24,4.761904762,28.962,8.6
+766-85-7061,Cairo,Mandalay,Member,Female,Health and beauty,87.87,10,43.935,922.635,3/29/2019,10:25:00 AM,Ewallet,878.7,4.761904762,43.935,5.1
+733-01-9107,Cairo,Mandalay,Member,Female,Home and lifestyle,82.7,6,24.81,521.01,03-05-2019,6:14:00 PM,Cash,496.2,4.761904762,24.81,7.4
+716-39-1409,Cairo,Mandalay,Member,Female,Health and beauty,30.35,7,10.6225,223.0725,3/19/2019,6:19:00 PM,Cash,212.45,4.761904762,10.6225,8
+479-26-8945,Cairo,Mandalay,Member,Female,Sports and travel,16.49,2,1.649,34.629,02-05-2019,11:32:00 AM,Ewallet,32.98,4.761904762,1.649,4.6
+227-78-1148,Cairo,Mandalay,Member,Female,Fashion accessories,72.84,7,25.494,535.374,2/15/2019,12:44:00 PM,Cash,509.88,4.761904762,25.494,8.4
+291-32-1427,Cairo,Mandalay,Member,Female,Fashion accessories,21.94,5,5.485,115.185,03-05-2019,12:29:00 PM,Ewallet,109.7,4.761904762,5.485,5.3
+659-65-8956,Cairo,Mandalay,Member,Female,Fashion accessories,51.36,1,2.568,53.928,1/16/2019,3:26:00 PM,Ewallet,51.36,4.761904762,2.568,5.2
+378-24-2715,Cairo,Mandalay,Member,Female,Home and lifestyle,53.44,2,5.344,112.224,1/20/2019,8:38:00 PM,Ewallet,106.88,4.761904762,5.344,4.1
+219-22-9386,Cairo,Mandalay,Member,Female,Sports and travel,99.96,9,44.982,944.622,03-09-2019,5:26:00 PM,Credit card,899.64,4.761904762,44.982,4.2
+268-27-6179,Cairo,Mandalay,Member,Female,Fashion accessories,56.47,8,22.588,474.348,03-09-2019,2:57:00 PM,Ewallet,451.76,4.761904762,22.588,7.3
+549-84-7482,Cairo,Mandalay,Member,Female,Sports and travel,90.28,9,40.626,853.146,02-08-2019,11:15:00 AM,Ewallet,812.52,4.761904762,40.626,7.2
+191-10-6171,Cairo,Mandalay,Normal,Female,Fashion accessories,39.62,7,13.867,291.207,1/25/2019,1:18:00 PM,Cash,277.34,4.761904762,13.867,7.5
+695-51-0018,Cairo,Mandalay,Normal,Female,Sports and travel,34.84,4,6.968,146.328,02-10-2019,6:36:00 PM,Cash,139.36,4.761904762,6.968,7.4
+590-83-4591,Cairo,Mandalay,Member,Female,Electronic accessories,87.45,6,26.235,550.935,2/17/2019,2:40:00 PM,Credit card,524.7,4.761904762,26.235,8.8
+241-72-9525,Cairo,Mandalay,Normal,Female,Sports and travel,51.91,10,25.955,545.055,2/16/2019,12:21:00 PM,Cash,519.1,4.761904762,25.955,8.2
+262-47-2794,Cairo,Mandalay,Member,Male,Home and lifestyle,71.86,8,28.744,603.624,03-06-2019,3:07:00 PM,Credit card,574.88,4.761904762,28.744,6.2
+608-96-3517,Cairo,Mandalay,Member,Female,Fashion accessories,91.54,4,18.308,384.468,3/23/2019,7:20:00 PM,Credit card,366.16,4.761904762,18.308,4.8
+279-74-2924,Cairo,Mandalay,Member,Male,Electronic accessories,72.17,1,3.6085,75.7785,01-04-2019,7:40:00 PM,Cash,72.17,4.761904762,3.6085,6.1
+307-85-2293,Cairo,Mandalay,Normal,Male,Home and lifestyle,50.28,5,12.57,263.97,03-07-2019,1:58:00 PM,Ewallet,251.4,4.761904762,12.57,9.7
+743-04-1105,Cairo,Mandalay,Member,Male,Health and beauty,97.22,9,43.749,918.729,3/30/2019,2:43:00 PM,Ewallet,874.98,4.761904762,43.749,6
+423-57-2993,Cairo,Mandalay,Normal,Male,Sports and travel,93.39,6,28.017,588.357,3/27/2019,7:18:00 PM,Ewallet,560.34,4.761904762,28.017,10
+548-46-9322,Cairo,Mandalay,Normal,Male,Food and beverages,39.9,10,19.95,418.95,2/20/2019,3:24:00 PM,Credit card,399,4.761904762,19.95,5.9
+505-02-0892,Cairo,Mandalay,Member,Male,Health and beauty,42.57,8,17.028,357.588,2/25/2019,2:12:00 PM,Ewallet,340.56,4.761904762,17.028,5.6
+316-55-4634,Cairo,Mandalay,Member,Male,Food and beverages,80.05,5,20.0125,420.2625,1/26/2019,12:45:00 PM,Credit card,400.25,4.761904762,20.0125,9.4
+608-27-6295,Cairo,Mandalay,Member,Male,Electronic accessories,52.89,6,15.867,333.207,1/19/2019,5:34:00 PM,Credit card,317.34,4.761904762,15.867,9.8
+414-12-7047,Cairo,Mandalay,Normal,Male,Food and beverages,19.79,8,7.916,166.236,1/18/2019,12:04:00 PM,Ewallet,158.32,4.761904762,7.916,8.7
+895-66-0685,Cairo,Mandalay,Member,Male,Food and beverages,18.08,3,2.712,56.952,03-05-2019,7:46:00 PM,Ewallet,54.24,4.761904762,2.712,8
+305-14-0245,Cairo,Mandalay,Member,Female,Home and lifestyle,94.49,8,37.796,793.716,03-03-2019,7:00:00 PM,Ewallet,755.92,4.761904762,37.796,7.5
+732-04-5373,Cairo,Mandalay,Member,Male,Home and lifestyle,46.47,4,9.294,195.174,02-08-2019,10:53:00 AM,Cash,185.88,4.761904762,9.294,7
+284-34-9626,Cairo,Mandalay,Normal,Female,Home and lifestyle,77.04,3,11.556,242.676,02-11-2019,10:39:00 AM,Credit card,231.12,4.761904762,11.556,7.2
+437-58-8131,Cairo,Mandalay,Normal,Female,Fashion accessories,73.52,2,7.352,154.392,1/15/2019,1:41:00 PM,Ewallet,147.04,4.761904762,7.352,4.6
+641-43-2399,Cairo,Mandalay,Normal,Male,Home and lifestyle,25.55,4,5.11,107.31,1/26/2019,8:23:00 PM,Ewallet,102.2,4.761904762,5.11,5.7
+542-41-0513,Cairo,Mandalay,Member,Female,Electronic accessories,57.49,4,11.498,241.458,3/15/2019,11:57:00 AM,Cash,229.96,4.761904762,11.498,6.6
+875-46-5808,Cairo,Mandalay,Member,Male,Health and beauty,25.9,10,12.95,271.95,02-06-2019,2:51:00 PM,Ewallet,259,4.761904762,12.95,8.7
+394-43-4238,Cairo,Mandalay,Member,Male,Home and lifestyle,17.77,5,4.4425,93.2925,2/15/2019,12:42:00 PM,Credit card,88.85,4.761904762,4.4425,5.4
+573-58-9734,Cairo,Mandalay,Normal,Female,Fashion accessories,30.37,3,4.5555,95.6655,3/28/2019,1:41:00 PM,Ewallet,91.11,4.761904762,4.5555,5.1
+817-69-8206,Cairo,Mandalay,Normal,Female,Electronic accessories,99.73,9,44.8785,942.4485,03-02-2019,7:42:00 PM,Credit card,897.57,4.761904762,44.8785,6.5
+142-63-6033,Cairo,Mandalay,Normal,Male,Home and lifestyle,92.36,5,23.09,484.89,3/20/2019,7:17:00 PM,Ewallet,461.8,4.761904762,23.09,4.9
+656-16-1063,Cairo,Mandalay,Normal,Male,Sports and travel,46.42,3,6.963,146.223,01-04-2019,1:24:00 PM,Credit card,139.26,4.761904762,6.963,4.4
+891-58-8335,Cairo,Mandalay,Member,Female,Sports and travel,29.61,7,10.3635,217.6335,03-11-2019,3:53:00 PM,Cash,207.27,4.761904762,10.3635,6.5
+560-30-5617,Cairo,Mandalay,Normal,Female,Sports and travel,24.77,5,6.1925,130.0425,3/24/2019,6:27:00 PM,Cash,123.85,4.761904762,6.1925,8.5
+549-03-9315,Cairo,Mandalay,Normal,Male,Fashion accessories,94.87,8,37.948,796.908,02-12-2019,12:58:00 PM,Ewallet,758.96,4.761904762,37.948,8.7
+790-29-1172,Cairo,Mandalay,Normal,Female,Food and beverages,57.34,3,8.601,180.621,03-10-2019,6:59:00 PM,Credit card,172.02,4.761904762,8.601,7.9
+239-36-3640,Cairo,Mandalay,Normal,Male,Electronic accessories,45.35,6,13.605,285.705,1/31/2019,1:44:00 PM,Ewallet,272.1,4.761904762,13.605,6.1
+468-01-2051,Cairo,Mandalay,Normal,Male,Food and beverages,62.08,7,21.728,456.288,03-06-2019,1:46:00 PM,Ewallet,434.56,4.761904762,21.728,5.4
+836-82-5858,Cairo,Mandalay,Member,Male,Health and beauty,69.37,9,31.2165,655.5465,1/26/2019,7:14:00 PM,Ewallet,624.33,4.761904762,31.2165,4
+466-61-5506,Cairo,Mandalay,Member,Female,Electronic accessories,90.7,6,27.21,571.41,2/26/2019,10:52:00 AM,Cash,544.2,4.761904762,27.21,5.3
+289-65-5721,Cairo,Mandalay,Normal,Female,Fashion accessories,81.37,2,8.137,170.877,1/26/2019,7:28:00 PM,Cash,162.74,4.761904762,8.137,6.5
+545-46-3100,Cairo,Mandalay,Member,Female,Electronic accessories,10.59,3,1.5885,33.3585,03-12-2019,1:52:00 PM,Credit card,31.77,4.761904762,1.5885,8.7
+418-02-5978,Cairo,Mandalay,Normal,Female,Health and beauty,84.09,9,37.8405,794.6505,02-11-2019,10:54:00 AM,Cash,756.81,4.761904762,37.8405,8
+269-04-5750,Cairo,Mandalay,Member,Male,Fashion accessories,73.82,4,14.764,310.044,2/21/2019,6:31:00 PM,Cash,295.28,4.761904762,14.764,6.7
+346-84-3103,Cairo,Mandalay,Member,Female,Electronic accessories,13.22,5,3.305,69.405,03-02-2019,7:26:00 PM,Cash,66.1,4.761904762,3.305,4.3
+376-02-8238,Cairo,Mandalay,Normal,Male,Home and lifestyle,93.87,8,37.548,788.508,02-02-2019,6:42:00 PM,Credit card,750.96,4.761904762,37.548,8.3
+866-05-7563,Cairo,Mandalay,Member,Female,Electronic accessories,81.4,3,12.21,256.41,02-09-2019,7:43:00 PM,Cash,244.2,4.761904762,12.21,4.8
+785-13-7708,Cairo,Mandalay,Normal,Male,Food and beverages,73.06,7,25.571,536.991,1/14/2019,7:06:00 PM,Credit card,511.42,4.761904762,25.571,4.2
+845-51-0542,Cairo,Mandalay,Member,Male,Food and beverages,46.55,9,20.9475,439.8975,02-02-2019,3:34:00 PM,Ewallet,418.95,4.761904762,20.9475,6.4
+110-48-7033,Cairo,Mandalay,Member,Male,Fashion accessories,32.62,4,6.524,137.004,1/29/2019,2:12:00 PM,Cash,130.48,4.761904762,6.524,9
+655-85-5130,Cairo,Mandalay,Member,Female,Fashion accessories,38.3,4,7.66,160.86,3/13/2019,7:22:00 PM,Cash,153.2,4.761904762,7.66,5.7
+154-74-7179,Cairo,Mandalay,Normal,Male,Sports and travel,54.45,1,2.7225,57.1725,2/26/2019,7:24:00 PM,Ewallet,54.45,4.761904762,2.7225,7.9
+571-94-0759,Cairo,Mandalay,Member,Female,Food and beverages,74.6,10,37.3,783.3,01-08-2019,8:55:00 PM,Cash,746,4.761904762,37.3,9.5
+783-09-1637,Cairo,Mandalay,Normal,Female,Sports and travel,67.43,5,16.8575,354.0075,03-06-2019,6:13:00 PM,Ewallet,337.15,4.761904762,16.8575,6.3
+477-24-6490,Cairo,Mandalay,Normal,Female,Health and beauty,99.71,6,29.913,628.173,2/26/2019,4:52:00 PM,Ewallet,598.26,4.761904762,29.913,7.9
+566-19-5475,Cairo,Mandalay,Normal,Male,Fashion accessories,47.97,7,16.7895,352.5795,01-07-2019,8:52:00 PM,Cash,335.79,4.761904762,16.7895,6.2
+498-41-1961,Cairo,Mandalay,Normal,Male,Health and beauty,66.68,5,16.67,350.07,2/20/2019,6:01:00 PM,Cash,333.4,4.761904762,16.67,7.6
+283-79-9594,Cairo,Mandalay,Normal,Female,Food and beverages,48.51,7,16.9785,356.5485,1/25/2019,1:30:00 PM,Credit card,339.57,4.761904762,16.9785,5.2
+139-20-0155,Cairo,Mandalay,Member,Male,Electronic accessories,40.3,10,20.15,423.15,1/24/2019,5:37:00 PM,Credit card,403,4.761904762,20.15,7
+585-03-5943,Cairo,Mandalay,Normal,Male,Health and beauty,18.11,10,9.055,190.155,3/13/2019,11:46:00 AM,Ewallet,181.1,4.761904762,9.055,5.9
+573-10-3877,Cairo,Mandalay,Member,Male,Health and beauty,39.01,1,1.9505,40.9605,03-12-2019,4:46:00 PM,Credit card,39.01,4.761904762,1.9505,4.7
+396-90-2219,Cairo,Mandalay,Normal,Female,Electronic accessories,14.96,8,5.984,125.664,2/23/2019,12:29:00 PM,Cash,119.68,4.761904762,5.984,8.6
+532-59-7201,Cairo,Mandalay,Member,Male,Sports and travel,79.93,6,23.979,503.559,1/31/2019,2:04:00 PM,Cash,479.58,4.761904762,23.979,5.5
+276-54-0879,Cairo,Mandalay,Normal,Male,Sports and travel,97.74,4,19.548,410.508,03-12-2019,7:53:00 PM,Ewallet,390.96,4.761904762,19.548,6.4
+730-61-8757,Cairo,Mandalay,Member,Male,Health and beauty,51.13,4,10.226,214.746,1/25/2019,10:11:00 AM,Credit card,204.52,4.761904762,10.226,4
+868-81-1752,Cairo,Mandalay,Normal,Male,Home and lifestyle,22.02,9,9.909,208.089,02-07-2019,6:48:00 PM,Cash,198.18,4.761904762,9.909,6.8
+692-27-8933,Cairo,Mandalay,Normal,Female,Sports and travel,57.95,6,17.385,365.085,2/24/2019,1:02:00 PM,Cash,347.7,4.761904762,17.385,5.2
+374-17-3652,Cairo,Mandalay,Member,Female,Food and beverages,42.82,9,19.269,404.649,02-05-2019,3:26:00 PM,Credit card,385.38,4.761904762,19.269,8.9
+378-07-7001,Cairo,Mandalay,Member,Male,Electronic accessories,48.09,3,7.2135,151.4835,02-10-2019,6:23:00 PM,Credit card,144.27,4.761904762,7.2135,7.8
+433-75-6987,Cairo,Mandalay,Member,Female,Health and beauty,55.97,7,19.5895,411.3795,03-05-2019,7:06:00 PM,Ewallet,391.79,4.761904762,19.5895,8.9
+873-95-4984,Cairo,Mandalay,Member,Female,Health and beauty,76.9,7,26.915,565.215,2/15/2019,8:21:00 PM,Cash,538.3,4.761904762,26.915,7.7
+400-45-1220,Cairo,Mandalay,Normal,Female,Health and beauty,13.5,10,6.75,141.75,2/27/2019,11:06:00 AM,Credit card,135,4.761904762,6.75,4.8
+115-99-4379,Cairo,Mandalay,Member,Female,Fashion accessories,54.73,7,19.1555,402.2655,3/14/2019,7:02:00 PM,Credit card,383.11,4.761904762,19.1555,8.5
+565-67-6697,Cairo,Mandalay,Member,Male,Home and lifestyle,27,9,12.15,255.15,03-02-2019,2:16:00 PM,Cash,243,4.761904762,12.15,4.8
+889-04-9723,Cairo,Mandalay,Member,Female,Food and beverages,89.14,4,17.828,374.388,01-07-2019,12:20:00 PM,Credit card,356.56,4.761904762,17.828,7.8
+453-63-6187,Cairo,Mandalay,Normal,Male,Electronic accessories,27.5,3,4.125,86.625,03-01-2019,3:40:00 PM,Ewallet,82.5,4.761904762,4.125,6.5
+578-80-7669,Cairo,Mandalay,Normal,Male,Sports and travel,74.97,1,3.7485,78.7185,3/16/2019,4:58:00 PM,Cash,74.97,4.761904762,3.7485,5.6
+201-86-2184,Cairo,Mandalay,Member,Female,Electronic accessories,26.26,7,9.191,193.011,02-02-2019,7:40:00 PM,Cash,183.82,4.761904762,9.191,9.9
+261-12-8671,Cairo,Mandalay,Normal,Female,Fashion accessories,60.96,2,6.096,128.016,1/25/2019,7:39:00 PM,Credit card,121.92,4.761904762,6.096,4.9
+843-01-4703,Cairo,Mandalay,Member,Female,Home and lifestyle,35.38,9,15.921,334.341,01-05-2019,7:50:00 PM,Credit card,318.42,4.761904762,15.921,9.6
+182-69-8360,Cairo,Mandalay,Normal,Female,Electronic accessories,23.65,4,4.73,99.33,1/30/2019,1:32:00 PM,Credit card,94.6,4.761904762,4.73,4
+868-52-7573,Cairo,Mandalay,Normal,Female,Food and beverages,99.69,5,24.9225,523.3725,1/14/2019,12:09:00 PM,Cash,498.45,4.761904762,24.9225,9.9
+525-88-7307,Cairo,Mandalay,Member,Male,Sports and travel,75.82,1,3.791,79.611,1/31/2019,1:19:00 PM,Cash,75.82,4.761904762,3.791,5.8
+596-42-3999,Cairo,Mandalay,Normal,Male,Food and beverages,18.22,7,6.377,133.917,03-10-2019,2:04:00 PM,Credit card,127.54,4.761904762,6.377,6.6
+173-82-9529,Cairo,Mandalay,Normal,Female,Fashion accessories,37.95,10,18.975,398.475,1/26/2019,2:51:00 PM,Cash,379.5,4.761904762,18.975,9.7
+760-54-1821,Cairo,Mandalay,Normal,Male,Home and lifestyle,13.59,9,6.1155,128.4255,3/15/2019,10:26:00 AM,Cash,122.31,4.761904762,6.1155,5.8
+793-10-3222,Cairo,Mandalay,Member,Female,Health and beauty,41.06,6,12.318,258.678,03-05-2019,1:30:00 PM,Credit card,246.36,4.761904762,12.318,8.3
+346-12-3257,Cairo,Mandalay,Member,Male,Electronic accessories,19.24,9,8.658,181.818,03-04-2019,4:28:00 PM,Cash,173.16,4.761904762,8.658,8
+831-64-0259,Cairo,Mandalay,Normal,Female,Fashion accessories,39.75,5,9.9375,208.6875,2/22/2019,10:43:00 AM,Ewallet,198.75,4.761904762,9.9375,9.6
+725-32-9708,Cairo,Mandalay,Member,Female,Fashion accessories,68.71,4,13.742,288.582,01-04-2019,7:01:00 PM,Cash,274.84,4.761904762,13.742,4.1
+244-08-0162,Cairo,Mandalay,Normal,Female,Health and beauty,34.21,10,17.105,359.205,01-02-2019,1:00:00 PM,Cash,342.1,4.761904762,17.105,5.1
+569-71-4390,Cairo,Mandalay,Normal,Male,Sports and travel,21.87,2,2.187,45.927,1/25/2019,2:29:00 PM,Ewallet,43.74,4.761904762,2.187,6.9
+268-03-6164,Cairo,Mandalay,Normal,Male,Health and beauty,96.11,1,4.8055,100.9155,1/25/2019,4:28:00 PM,Ewallet,96.11,4.761904762,4.8055,7.8
+848-07-1692,Cairo,Mandalay,Normal,Female,Health and beauty,57.22,2,5.722,120.162,01-12-2019,5:13:00 PM,Ewallet,114.44,4.761904762,5.722,8.3
+301-81-8610,Cairo,Mandalay,Member,Male,Fashion accessories,25.42,8,10.168,213.528,3/19/2019,7:42:00 PM,Credit card,203.36,4.761904762,10.168,6.7
+198-84-7132,Cairo,Mandalay,Member,Male,Fashion accessories,40.61,9,18.2745,383.7645,01-02-2019,1:40:00 PM,Cash,365.49,4.761904762,18.2745,7
+650-98-6268,Cairo,Mandalay,Member,Female,Food and beverages,20.87,3,3.1305,65.7405,3/20/2019,1:53:00 PM,Credit card,62.61,4.761904762,3.1305,8
+741-73-3559,Cairo,Mandalay,Normal,Male,Sports and travel,67.27,5,16.8175,353.1675,2/27/2019,5:27:00 PM,Cash,336.35,4.761904762,16.8175,6.9
+286-75-7818,Cairo,Mandalay,Normal,Male,Fashion accessories,69.08,2,6.908,145.068,1/31/2019,7:48:00 PM,Credit card,138.16,4.761904762,6.908,6.9
+616-87-0016,Cairo,Mandalay,Normal,Male,Fashion accessories,95.54,7,33.439,702.219,03-09-2019,2:36:00 PM,Credit card,668.78,4.761904762,33.439,9.6
+837-55-7229,Cairo,Mandalay,Normal,Female,Fashion accessories,47.44,1,2.372,49.812,2/22/2019,6:19:00 PM,Credit card,47.44,4.761904762,2.372,6.8
+394-30-3170,Cairo,Mandalay,Member,Female,Sports and travel,88.43,8,35.372,742.812,3/22/2019,7:35:00 PM,Credit card,707.44,4.761904762,35.372,4.3
+390-80-5128,Cairo,Mandalay,Member,Female,Health and beauty,19.15,1,0.9575,20.1075,1/28/2019,5:58:00 PM,Credit card,19.15,4.761904762,0.9575,9.5
+296-11-7041,Cairo,Mandalay,Member,Female,Health and beauty,27.07,1,1.3535,28.4235,01-12-2019,8:07:00 PM,Credit card,27.07,4.761904762,1.3535,5.3
+449-27-2918,Cairo,Mandalay,Member,Female,Sports and travel,39.12,1,1.956,41.076,3/26/2019,11:02:00 AM,Credit card,39.12,4.761904762,1.956,9.6
+891-01-7034,Cairo,Mandalay,Normal,Female,Electronic accessories,74.71,6,22.413,470.673,01-01-2019,7:07:00 PM,Cash,448.26,4.761904762,22.413,6.7
+744-09-5786,Cairo,Mandalay,Normal,Male,Electronic accessories,22.01,6,6.603,138.663,01-02-2019,6:50:00 PM,Cash,132.06,4.761904762,6.603,7.6
+767-54-1907,Cairo,Mandalay,Member,Female,Fashion accessories,29.56,5,7.39,155.19,2/13/2019,4:59:00 PM,Cash,147.8,4.761904762,7.39,6.9
+710-46-4433,Cairo,Mandalay,Member,Female,Food and beverages,77.4,9,34.83,731.43,2/15/2019,2:15:00 PM,Credit card,696.6,4.761904762,34.83,4.5
+533-33-5337,Cairo,Mandalay,Normal,Male,Electronic accessories,79.39,10,39.695,833.595,02-07-2019,8:24:00 PM,Cash,793.9,4.761904762,39.695,6.2
+234-03-4040,Cairo,Mandalay,Member,Female,Food and beverages,73.05,10,36.525,767.025,03-03-2019,12:25:00 PM,Credit card,730.5,4.761904762,36.525,8.7
+554-53-3790,Cairo,Mandalay,Normal,Male,Sports and travel,37.02,6,11.106,233.226,3/22/2019,6:33:00 PM,Cash,222.12,4.761904762,11.106,4.5
+731-59-7531,Cairo,Mandalay,Member,Male,Health and beauty,72.57,8,29.028,609.588,3/30/2019,5:58:00 PM,Cash,580.56,4.761904762,29.028,4.6
+701-69-8742,Cairo,Mandalay,Normal,Male,Sports and travel,34.37,10,17.185,360.885,3/16/2019,10:11:00 AM,Ewallet,343.7,4.761904762,17.185,6.7
+305-18-3552,Cairo,Mandalay,Member,Male,Home and lifestyle,60.38,10,30.19,633.99,02-12-2019,4:19:00 PM,Cash,603.8,4.761904762,30.19,6
+438-01-4015,Cairo,Mandalay,Member,Female,Sports and travel,49.49,4,9.898,207.858,3/21/2019,3:25:00 PM,Ewallet,197.96,4.761904762,9.898,6.6
+709-58-4068,Cairo,Mandalay,Normal,Female,Fashion accessories,41.09,10,20.545,431.445,2/28/2019,2:42:00 PM,Cash,410.9,4.761904762,20.545,7.3
+627-95-3243,Cairo,Mandalay,Member,Female,Home and lifestyle,77.68,9,34.956,734.076,02-04-2019,1:21:00 PM,Ewallet,699.12,4.761904762,34.956,9.8
+686-41-0932,Cairo,Mandalay,Normal,Female,Fashion accessories,34.7,2,3.47,72.87,3/13/2019,7:48:00 PM,Ewallet,69.4,4.761904762,3.47,8.2
+608-04-3797,Cairo,Mandalay,Member,Female,Health and beauty,25.32,8,10.128,212.688,03-05-2019,8:24:00 PM,Ewallet,202.56,4.761904762,10.128,8.7
+437-53-3084,Cairo,Mandalay,Normal,Male,Fashion accessories,99.89,2,9.989,209.769,2/26/2019,11:48:00 AM,Ewallet,199.78,4.761904762,9.989,7.1
+632-32-4574,Cairo,Mandalay,Normal,Male,Sports and travel,75.92,8,30.368,637.728,3/20/2019,2:14:00 PM,Cash,607.36,4.761904762,30.368,5.5
+401-18-8016,Cairo,Mandalay,Member,Female,Sports and travel,98.13,1,4.9065,103.0365,1/21/2019,5:36:00 PM,Cash,98.13,4.761904762,4.9065,8.9
+277-63-2961,Cairo,Mandalay,Member,Male,Sports and travel,73.97,1,3.6985,77.6685,02-03-2019,3:53:00 PM,Credit card,73.97,4.761904762,3.6985,5.4
+282-35-2475,Cairo,Mandalay,Normal,Female,Sports and travel,93.31,2,9.331,195.951,3/25/2019,5:53:00 PM,Cash,186.62,4.761904762,9.331,6.3
+511-54-3087,Cairo,Mandalay,Normal,Male,Sports and travel,88.45,1,4.4225,92.8725,2/25/2019,4:36:00 PM,Credit card,88.45,4.761904762,4.4225,9.5
+387-49-4215,Cairo,Mandalay,Member,Female,Sports and travel,48.5,3,7.275,152.775,01-08-2019,12:50:00 PM,Cash,145.5,4.761904762,7.275,6.7
+862-17-9201,Cairo,Mandalay,Normal,Female,Food and beverages,84.05,6,25.215,529.515,1/29/2019,10:48:00 AM,Credit card,504.3,4.761904762,25.215,7.7
+291-21-5991,Cairo,Mandalay,Member,Male,Health and beauty,61.29,5,15.3225,321.7725,3/29/2019,2:28:00 PM,Cash,306.45,4.761904762,15.3225,7
+347-72-6115,Cairo,Mandalay,Member,Female,Sports and travel,90.74,7,31.759,666.939,1/16/2019,6:03:00 PM,Credit card,635.18,4.761904762,31.759,6.2
+425-85-2085,Cairo,Mandalay,Member,Male,Health and beauty,54.86,5,13.715,288.015,3/29/2019,4:48:00 PM,Ewallet,274.3,4.761904762,13.715,9.8
+734-91-1155,Cairo,Mandalay,Normal,Female,Electronic accessories,45.71,3,6.8565,143.9865,3/26/2019,10:34:00 AM,Credit card,137.13,4.761904762,6.8565,7.7
+286-62-6248,Cairo,Mandalay,Normal,Male,Fashion accessories,39.21,4,7.842,164.682,1/16/2019,8:03:00 PM,Credit card,156.84,4.761904762,7.842,9
+339-38-9982,Cairo,Mandalay,Member,Male,Fashion accessories,59.86,2,5.986,125.706,1/13/2019,2:55:00 PM,Ewallet,119.72,4.761904762,5.986,6.7
+827-44-5872,Cairo,Mandalay,Member,Female,Food and beverages,54.36,10,27.18,570.78,02-07-2019,11:28:00 AM,Credit card,543.6,4.761904762,27.18,6.1
+857-67-9057,Cairo,Mandalay,Normal,Male,Electronic accessories,22.95,10,11.475,240.975,02-06-2019,7:20:00 PM,Ewallet,229.5,4.761904762,11.475,8.2
+339-12-4827,Cairo,Mandalay,Member,Female,Fashion accessories,73.96,1,3.698,77.658,01-05-2019,11:32:00 AM,Credit card,73.96,4.761904762,3.698,5
+173-50-1108,Cairo,Mandalay,Member,Female,Sports and travel,20.18,4,4.036,84.756,2/13/2019,12:14:00 PM,Credit card,80.72,4.761904762,4.036,5
+841-18-8232,Cairo,Mandalay,Normal,Female,Food and beverages,71.2,1,3.56,74.76,01-05-2019,8:40:00 PM,Credit card,71.2,4.761904762,3.56,9.2
+701-23-5550,Cairo,Mandalay,Member,Male,Home and lifestyle,38.81,4,7.762,163.002,3/19/2019,1:40:00 PM,Ewallet,155.24,4.761904762,7.762,4.9
+539-21-7227,Cairo,Mandalay,Normal,Female,Sports and travel,51.54,5,12.885,270.585,1/26/2019,5:45:00 PM,Cash,257.7,4.761904762,12.885,4.2
+747-58-7183,Cairo,Mandalay,Normal,Male,Fashion accessories,57.27,3,8.5905,180.4005,02-09-2019,8:31:00 PM,Ewallet,171.81,4.761904762,8.5905,6.5
+582-52-8065,Cairo,Mandalay,Normal,Female,Fashion accessories,54.31,9,24.4395,513.2295,2/22/2019,10:49:00 AM,Cash,488.79,4.761904762,24.4395,8.9
+210-57-1719,Cairo,Mandalay,Normal,Female,Health and beauty,58.24,9,26.208,550.368,02-05-2019,12:34:00 PM,Cash,524.16,4.761904762,26.208,9.7
+356-44-8813,Cairo,Mandalay,Normal,Male,Home and lifestyle,37.48,3,5.622,118.062,1/20/2019,1:45:00 PM,Credit card,112.44,4.761904762,5.622,7.7
+198-66-9832,Cairo,Mandalay,Member,Female,Fashion accessories,72.04,2,7.204,151.284,02-04-2019,7:38:00 PM,Cash,144.08,4.761904762,7.204,9.5
+174-75-0888,Cairo,Mandalay,Normal,Male,Electronic accessories,21.58,9,9.711,203.931,3/14/2019,12:32:00 PM,Cash,194.22,4.761904762,9.711,7.3
+134-54-4720,Cairo,Mandalay,Normal,Female,Electronic accessories,42.42,8,16.968,356.328,1/30/2019,1:58:00 PM,Ewallet,339.36,4.761904762,16.968,5.7
+514-37-2845,Cairo,Mandalay,Normal,Male,Fashion accessories,99.25,2,9.925,208.425,3/20/2019,1:02:00 PM,Cash,198.5,4.761904762,9.925,9
+241-11-2261,Cairo,Mandalay,Normal,Female,Fashion accessories,79.86,7,27.951,586.971,01-10-2019,10:33:00 AM,Credit card,559.02,4.761904762,27.951,5.5
+834-83-1826,Cairo,Mandalay,Member,Female,Home and lifestyle,82.04,5,20.51,430.71,2/25/2019,5:16:00 PM,Credit card,410.2,4.761904762,20.51,7.6
+343-61-3544,Cairo,Mandalay,Member,Male,Sports and travel,26.67,10,13.335,280.035,1/29/2019,11:48:00 AM,Cash,266.7,4.761904762,13.335,8.6
+355-34-6244,Cairo,Mandalay,Normal,Male,Food and beverages,72.39,2,7.239,152.019,1/13/2019,7:55:00 PM,Credit card,144.78,4.761904762,7.239,8.1
+339-96-8318,Cairo,Mandalay,Member,Male,Fashion accessories,81.31,7,28.4585,597.6285,03-01-2019,7:49:00 PM,Ewallet,569.17,4.761904762,28.4585,6.3
+458-61-0011,Cairo,Mandalay,Normal,Male,Food and beverages,60.3,4,12.06,253.26,2/20/2019,6:43:00 PM,Cash,241.2,4.761904762,12.06,5.8
+207-73-1363,Cairo,Mandalay,Normal,Male,Health and beauty,69.51,2,6.951,145.971,03-01-2019,12:15:00 PM,Ewallet,139.02,4.761904762,6.951,8.1
+359-90-3665,Cairo,Mandalay,Member,Female,Fashion accessories,18.08,4,3.616,75.936,1/14/2019,6:03:00 PM,Credit card,72.32,4.761904762,3.616,9.5
+375-72-3056,Cairo,Mandalay,Normal,Male,Sports and travel,63.06,3,9.459,198.639,1/19/2019,3:58:00 PM,Ewallet,189.18,4.761904762,9.459,7
+585-11-6748,Cairo,Mandalay,Member,Male,Sports and travel,96.8,3,14.52,304.92,3/15/2019,1:05:00 PM,Cash,290.4,4.761904762,14.52,5.3
+470-31-3286,Cairo,Mandalay,Normal,Male,Health and beauty,14.82,3,2.223,46.683,03-01-2019,11:30:00 AM,Credit card,44.46,4.761904762,2.223,8.7
+642-30-6693,Cairo,Mandalay,Normal,Female,Sports and travel,54.51,6,16.353,343.413,3/17/2019,1:54:00 PM,Ewallet,327.06,4.761904762,16.353,7.8
+830-58-2383,Cairo,Mandalay,Normal,Male,Home and lifestyle,31.75,4,6.35,133.35,02-08-2019,3:26:00 PM,Cash,127,4.761904762,6.35,8.6
+349-97-8902,Cairo,Mandalay,Member,Male,Food and beverages,57.89,2,5.789,121.569,1/17/2019,10:37:00 AM,Ewallet,115.78,4.761904762,5.789,8.9
+789-23-8625,Cairo,Mandalay,Member,Male,Fashion accessories,93.22,3,13.983,293.643,1/24/2019,11:45:00 AM,Cash,279.66,4.761904762,13.983,7.2
+327-40-9673,Cairo,Mandalay,Member,Male,Sports and travel,72.6,6,21.78,457.38,1/13/2019,7:51:00 PM,Cash,435.6,4.761904762,21.78,6.9
+670-79-6321,Cairo,Mandalay,Member,Female,Home and lifestyle,94.59,7,33.1065,695.2365,1/17/2019,3:27:00 PM,Credit card,662.13,4.761904762,33.1065,4.9
+852-62-7105,Cairo,Mandalay,Normal,Female,Fashion accessories,83.25,10,41.625,874.125,01-12-2019,11:25:00 AM,Credit card,832.5,4.761904762,41.625,4.4
+598-06-7312,Cairo,Mandalay,Member,Male,Fashion accessories,91.35,1,4.5675,95.9175,2/16/2019,3:42:00 PM,Cash,91.35,4.761904762,4.5675,6.8
+135-13-8269,Cairo,Mandalay,Member,Female,Food and beverages,78.88,2,7.888,165.648,1/26/2019,4:04:00 PM,Cash,157.76,4.761904762,7.888,9.1
+628-90-8624,Cairo,Mandalay,Member,Male,Health and beauty,82.58,10,41.29,867.09,3/14/2019,2:41:00 PM,Cash,825.8,4.761904762,41.29,5
+420-04-7590,Cairo,Mandalay,Normal,Male,Home and lifestyle,99.7,3,14.955,314.055,3/18/2019,11:29:00 AM,Ewallet,299.1,4.761904762,14.955,4.7
+182-88-2763,Cairo,Mandalay,Member,Male,Food and beverages,79.91,3,11.9865,251.7165,3/20/2019,7:28:00 PM,Credit card,239.73,4.761904762,11.9865,5
+188-55-0967,Cairo,Mandalay,Member,Male,Health and beauty,66.47,10,33.235,697.935,1/15/2019,3:01:00 PM,Credit card,664.7,4.761904762,33.235,5
+364-33-8584,Cairo,Mandalay,Member,Female,Food and beverages,17.63,5,4.4075,92.5575,03-08-2019,3:27:00 PM,Cash,88.15,4.761904762,4.4075,8.5
+665-63-9737,Cairo,Mandalay,Normal,Male,Fashion accessories,52.42,3,7.863,165.123,2/27/2019,5:36:00 PM,Ewallet,157.26,4.761904762,7.863,7.5
+695-09-5146,Cairo,Mandalay,Member,Female,Food and beverages,98.79,3,14.8185,311.1885,2/23/2019,8:00:00 PM,Ewallet,296.37,4.761904762,14.8185,6.4
+794-32-2436,Cairo,Mandalay,Member,Male,Electronic accessories,55.67,2,5.567,116.907,3/27/2019,3:08:00 PM,Ewallet,111.34,4.761904762,5.567,6
+574-31-8277,Cairo,Mandalay,Member,Male,Fashion accessories,33.63,1,1.6815,35.3115,3/20/2019,7:55:00 PM,Cash,33.63,4.761904762,1.6815,5.6
+369-82-2676,Cairo,Mandalay,Normal,Male,Electronic accessories,75.66,5,18.915,397.215,1/15/2019,6:22:00 PM,Ewallet,378.3,4.761904762,18.915,7.8
+563-47-4072,Cairo,Mandalay,Normal,Female,Health and beauty,55.81,6,16.743,351.603,1/22/2019,11:52:00 AM,Cash,334.86,4.761904762,16.743,9.9
+149-15-7606,Cairo,Mandalay,Member,Male,Sports and travel,37.32,9,16.794,352.674,03-06-2019,3:31:00 PM,Ewallet,335.88,4.761904762,16.794,5.1
+133-77-3154,Cairo,Mandalay,Member,Male,Fashion accessories,60.18,4,12.036,252.756,2/16/2019,6:04:00 PM,Credit card,240.72,4.761904762,12.036,9.4
+322-02-2271,Cairo,Mandalay,Normal,Female,Sports and travel,42.97,3,6.4455,135.3555,02-03-2019,11:46:00 AM,Cash,128.91,4.761904762,6.4455,9.3
+725-67-2480,Cairo,Mandalay,Member,Female,Fashion accessories,58.75,6,17.625,370.125,3/24/2019,6:14:00 PM,Credit card,352.5,4.761904762,17.625,5.9
+779-42-2410,Cairo,Mandalay,Member,Male,Food and beverages,57.74,3,8.661,181.881,2/20/2019,1:06:00 PM,Ewallet,173.22,4.761904762,8.661,7.7
+190-14-3147,Cairo,Mandalay,Normal,Female,Health and beauty,17.97,4,3.594,75.474,2/23/2019,8:43:00 PM,Ewallet,71.88,4.761904762,3.594,6.4
+679-22-6530,Cairo,Mandalay,Normal,Female,Sports and travel,40.62,2,4.062,85.302,1/17/2019,10:01:00 AM,Credit card,81.24,4.761904762,4.062,4.1
+642-61-4706,Cairo,Mandalay,Member,Male,Food and beverages,93.4,2,9.34,196.14,3/30/2019,4:34:00 PM,Cash,186.8,4.761904762,9.34,5.5
+576-31-4774,Cairo,Mandalay,Normal,Female,Health and beauty,73.41,3,11.0115,231.2415,03-02-2019,1:10:00 PM,Ewallet,220.23,4.761904762,11.0115,4
+242-11-3142,Cairo,Mandalay,Member,Male,Fashion accessories,83.77,2,8.377,175.917,2/24/2019,7:57:00 PM,Cash,167.54,4.761904762,8.377,4.6
+752-23-3760,Cairo,Mandalay,Member,Female,Sports and travel,64.08,7,22.428,470.988,2/19/2019,7:29:00 PM,Credit card,448.56,4.761904762,22.428,7.3
+528-87-5606,Cairo,Mandalay,Member,Female,Electronic accessories,39.48,1,1.974,41.454,02-12-2019,7:43:00 PM,Cash,39.48,4.761904762,1.974,6.5
+320-85-2052,Cairo,Mandalay,Normal,Female,Sports and travel,34.81,1,1.7405,36.5505,1/14/2019,10:11:00 AM,Credit card,34.81,4.761904762,1.7405,7
+510-79-0415,Cairo,Mandalay,Member,Female,Sports and travel,23.08,6,6.924,145.404,1/24/2019,7:20:00 PM,Ewallet,138.48,4.761904762,6.924,4.9
+241-96-5076,Cairo,Mandalay,Member,Female,Home and lifestyle,49.1,2,4.91,103.11,01-08-2019,12:58:00 PM,Credit card,98.2,4.761904762,4.91,6.4
+767-97-4650,Cairo,Mandalay,Member,Female,Sports and travel,64.83,2,6.483,136.143,01-08-2019,11:59:00 AM,Credit card,129.66,4.761904762,6.483,8
+826-58-8051,Cairo,Mandalay,Normal,Male,Home and lifestyle,62.19,4,12.438,261.198,01-06-2019,7:46:00 PM,Ewallet,248.76,4.761904762,12.438,4.3
+176-64-7711,Cairo,Mandalay,Normal,Male,Food and beverages,32.32,3,4.848,101.808,3/27/2019,7:11:00 PM,Credit card,96.96,4.761904762,4.848,4.3
+191-29-0321,Cairo,Mandalay,Member,Female,Fashion accessories,19.77,10,9.885,207.585,2/27/2019,6:57:00 PM,Credit card,197.7,4.761904762,9.885,5
+729-06-2010,Cairo,Mandalay,Member,Male,Health and beauty,80.47,9,36.2115,760.4415,01-06-2019,11:18:00 AM,Cash,724.23,4.761904762,36.2115,9.2
+640-48-5028,Cairo,Mandalay,Member,Female,Home and lifestyle,88.39,9,39.7755,835.2855,03-02-2019,12:40:00 PM,Cash,795.51,4.761904762,39.7755,6.3
+186-79-9562,Cairo,Mandalay,Normal,Male,Health and beauty,71.77,7,25.1195,527.5095,3/29/2019,2:06:00 PM,Cash,502.39,4.761904762,25.1195,8.9
+834-45-5519,Cairo,Mandalay,Normal,Female,Electronic accessories,43,4,8.6,180.6,1/31/2019,8:48:00 PM,Ewallet,172,4.761904762,8.6,7.6
+821-14-9046,Cairo,Mandalay,Member,Female,Fashion accessories,17.48,6,5.244,110.124,1/18/2019,3:04:00 PM,Credit card,104.88,4.761904762,5.244,6.1
+418-05-0656,Cairo,Mandalay,Normal,Female,Fashion accessories,25.56,7,8.946,187.866,02-02-2019,8:42:00 PM,Cash,178.92,4.761904762,8.946,7.1
+776-68-1096,Cairo,Mandalay,Normal,Male,Home and lifestyle,44.12,3,6.618,138.978,3/18/2019,1:45:00 PM,Credit card,132.36,4.761904762,6.618,7.9
+434-35-9162,Cairo,Mandalay,Member,Male,Food and beverages,23.34,4,4.668,98.028,02-04-2019,6:53:00 PM,Ewallet,93.36,4.761904762,4.668,7.4
+174-64-0215,Cairo,Mandalay,Normal,Male,Sports and travel,69.74,10,34.87,732.27,03-05-2019,5:49:00 PM,Credit card,697.4,4.761904762,34.87,8.9
+299-29-0180,Cairo,Mandalay,Member,Female,Home and lifestyle,52.18,7,18.263,383.523,03-09-2019,10:54:00 AM,Cash,365.26,4.761904762,18.263,9.3
+438-23-1242,Cairo,Mandalay,Normal,Male,Electronic accessories,75.88,7,26.558,557.718,1/24/2019,10:38:00 AM,Ewallet,531.16,4.761904762,26.558,8.9
+238-45-6950,Cairo,Mandalay,Member,Male,Food and beverages,53.72,1,2.686,56.406,03-01-2019,8:03:00 PM,Ewallet,53.72,4.761904762,2.686,6.4
+197-77-7132,Cairo,Mandalay,Member,Male,Electronic accessories,91.56,8,36.624,769.104,01-12-2019,6:22:00 PM,Ewallet,732.48,4.761904762,36.624,6
+457-13-1708,Cairo,Mandalay,Member,Male,Fashion accessories,65.23,10,32.615,684.915,01-08-2019,7:07:00 PM,Credit card,652.3,4.761904762,32.615,5.2
+487-79-6868,Cairo,Mandalay,Member,Female,Home and lifestyle,12.29,9,5.5305,116.1405,3/26/2019,7:28:00 PM,Credit card,110.61,4.761904762,5.5305,8
+210-30-7976,Cairo,Mandalay,Member,Female,Fashion accessories,22.32,4,4.464,93.744,3/14/2019,11:16:00 AM,Ewallet,89.28,4.761904762,4.464,4.1
+775-72-1988,Cairo,Mandalay,Normal,Male,Home and lifestyle,73.28,5,18.32,384.72,1/24/2019,3:05:00 PM,Ewallet,366.4,4.761904762,18.32,8.4
+785-96-0615,Cairo,Mandalay,Member,Female,Electronic accessories,35.74,8,14.296,300.216,2/17/2019,3:28:00 PM,Ewallet,285.92,4.761904762,14.296,4.9
+842-40-8179,Cairo,Mandalay,Member,Female,Food and beverages,77.2,10,38.6,810.6,02-11-2019,10:38:00 AM,Credit card,772,4.761904762,38.6,5.6
+525-09-8450,Cairo,Mandalay,Normal,Male,Electronic accessories,72.13,10,36.065,757.365,1/31/2019,3:12:00 PM,Credit card,721.3,4.761904762,36.065,4.2
+593-14-4239,Cairo,Mandalay,Normal,Female,Home and lifestyle,95.46,8,38.184,801.864,03-05-2019,7:40:00 PM,Ewallet,763.68,4.761904762,38.184,4.7
+388-76-2555,Cairo,Mandalay,Normal,Male,Sports and travel,13.69,6,4.107,86.247,2/13/2019,1:59:00 PM,Cash,82.14,4.761904762,4.107,6.3
+711-31-1234,Cairo,Mandalay,Normal,Female,Electronic accessories,95.64,4,19.128,401.688,3/16/2019,6:51:00 PM,Cash,382.56,4.761904762,19.128,7.9
+707-32-7409,Cairo,Mandalay,Member,Female,Sports and travel,95.54,4,19.108,401.268,2/26/2019,11:58:00 AM,Ewallet,382.16,4.761904762,19.108,4.5
+120-54-2248,Cairo,Mandalay,Normal,Female,Food and beverages,28.86,5,7.215,151.515,1/22/2019,6:08:00 PM,Credit card,144.3,4.761904762,7.215,8
+875-31-8302,Cairo,Mandalay,Normal,Male,Sports and travel,93.38,1,4.669,98.049,01-03-2019,1:07:00 PM,Cash,93.38,4.761904762,4.669,9.6
+457-94-0464,Cairo,Mandalay,Member,Male,Electronic accessories,87.87,9,39.5415,830.3715,1/31/2019,8:32:00 PM,Ewallet,790.83,4.761904762,39.5415,5.6
+744-16-7898,Cairo,Mandalay,Normal,Female,Home and lifestyle,97.37,10,48.685,1022.385,1/15/2019,1:48:00 PM,Credit card,973.7,4.761904762,48.685,4.9
+605-83-1050,Cairo,Mandalay,Normal,Male,Fashion accessories,27.18,2,2.718,57.078,3/15/2019,4:26:00 PM,Ewallet,54.36,4.761904762,2.718,4.3
+359-94-5395,Cairo,Mandalay,Normal,Male,Health and beauty,92.78,1,4.639,97.419,3/15/2019,10:50:00 AM,Credit card,92.78,4.761904762,4.639,9.8
+751-15-6198,Cairo,Mandalay,Normal,Male,Sports and travel,23.01,6,6.903,144.963,01-12-2019,4:45:00 PM,Ewallet,138.06,4.761904762,6.903,7.9
+831-81-6575,Cairo,Mandalay,Member,Female,Electronic accessories,75.59,9,34.0155,714.3255,2/23/2019,11:12:00 AM,Cash,680.31,4.761904762,34.0155,8
+559-61-5987,Cairo,Mandalay,Normal,Female,Health and beauty,17.75,1,0.8875,18.6375,1/14/2019,10:38:00 AM,Cash,17.75,4.761904762,0.8875,8.6
+565-91-4567,Cairo,Mandalay,Normal,Male,Health and beauty,10.75,8,4.3,90.3,3/15/2019,2:38:00 PM,Ewallet,86,4.761904762,4.3,6.2
+499-27-7781,Cairo,Mandalay,Normal,Female,Food and beverages,53.21,8,21.284,446.964,3/14/2019,4:45:00 PM,Ewallet,425.68,4.761904762,21.284,5
+869-11-3082,Cairo,Mandalay,Member,Male,Health and beauty,96.16,4,19.232,403.872,1/27/2019,8:03:00 PM,Credit card,384.64,4.761904762,19.232,8.4
+190-59-3964,Cairo,Mandalay,Member,Male,Food and beverages,47.16,5,11.79,247.59,02-03-2019,2:35:00 PM,Credit card,235.8,4.761904762,11.79,6
+366-43-6862,Cairo,Mandalay,Normal,Male,Electronic accessories,52.89,4,10.578,222.138,3/25/2019,4:32:00 PM,Ewallet,211.56,4.761904762,10.578,6.7
+109-86-4363,Cairo,Mandalay,Member,Female,Sports and travel,60.08,7,21.028,441.588,2/14/2019,11:36:00 AM,Credit card,420.56,4.761904762,21.028,4.5
+222-42-0244,Cairo,Mandalay,Member,Female,Health and beauty,72.11,9,32.4495,681.4395,1/28/2019,1:53:00 PM,Credit card,648.99,4.761904762,32.4495,7.7
+636-17-0325,Cairo,Mandalay,Normal,Male,Health and beauty,62.57,4,12.514,262.794,2/25/2019,6:37:00 PM,Cash,250.28,4.761904762,12.514,9.5
+343-75-9322,Cairo,Mandalay,Member,Female,Sports and travel,11.85,8,4.74,99.54,01-09-2019,4:34:00 PM,Cash,94.8,4.761904762,4.74,4.1
+427-45-9297,Cairo,Mandalay,Member,Female,Home and lifestyle,40.73,7,14.2555,299.3655,03-12-2019,11:01:00 AM,Ewallet,285.11,4.761904762,14.2555,5.4
+670-71-7306,Cairo,Mandalay,Normal,Male,Sports and travel,44.63,6,13.389,281.169,01-02-2019,8:08:00 PM,Credit card,267.78,4.761904762,13.389,5.1
+291-59-1384,Cairo,Mandalay,Normal,Male,Electronic accessories,60.3,1,3.015,63.315,2/28/2019,5:38:00 PM,Cash,60.3,4.761904762,3.015,6
+866-70-2814,Cairo,Mandalay,Normal,Female,Electronic accessories,52.79,10,26.395,554.295,2/25/2019,11:58:00 AM,Ewallet,527.9,4.761904762,26.395,10
+895-03-6665,Cairo,Mandalay,Normal,Female,Fashion accessories,36.51,9,16.4295,345.0195,2/16/2019,10:52:00 AM,Cash,328.59,4.761904762,16.4295,4.2
+770-42-8960,Cairo,Mandalay,Normal,Male,Food and beverages,21.12,8,8.448,177.408,01-01-2019,7:31:00 PM,Cash,168.96,4.761904762,8.448,6.3
+234-36-2483,Cairo,Mandalay,Normal,Male,Health and beauty,57.59,6,17.277,362.817,2/15/2019,1:51:00 PM,Cash,345.54,4.761904762,17.277,5.1
+152-03-4217,Cairo,Mandalay,Normal,Female,Home and lifestyle,11.28,9,5.076,106.596,3/17/2019,11:55:00 AM,Credit card,101.52,4.761904762,5.076,4.3
+533-66-5566,Cairo,Mandalay,Normal,Female,Home and lifestyle,51.07,7,17.8745,375.3645,01-12-2019,11:42:00 AM,Cash,357.49,4.761904762,17.8745,7
+361-59-0574,Cairo,Mandalay,Member,Male,Sports and travel,90.53,8,36.212,760.452,3/15/2019,2:48:00 PM,Credit card,724.24,4.761904762,36.212,6.5
+544-55-9589,Cairo,Mandalay,Member,Female,Electronic accessories,21.43,10,10.715,225.015,1/28/2019,11:51:00 AM,Cash,214.3,4.761904762,10.715,6.2
+608-05-3804,Cairo,Mandalay,Member,Male,Electronic accessories,39.75,1,1.9875,41.7375,2/25/2019,8:19:00 PM,Cash,39.75,4.761904762,1.9875,6.1
+761-49-0439,Cairo,Mandalay,Member,Female,Electronic accessories,12.1,8,4.84,101.64,1/19/2019,10:17:00 AM,Ewallet,96.8,4.761904762,4.84,8.6
+490-95-0021,Cairo,Mandalay,Member,Female,Food and beverages,33.21,10,16.605,348.705,01-08-2019,2:25:00 PM,Ewallet,332.1,4.761904762,16.605,6
+311-13-6971,Cairo,Mandalay,Member,Male,Sports and travel,31.99,10,15.995,335.895,2/20/2019,3:18:00 PM,Credit card,319.9,4.761904762,15.995,9.9
+114-35-5271,Cairo,Mandalay,Normal,Female,Electronic accessories,57.91,8,23.164,486.444,02-07-2019,3:06:00 PM,Cash,463.28,4.761904762,23.164,8.1
+715-20-1673,Cairo,Mandalay,Normal,Male,Electronic accessories,28.38,5,7.095,148.995,03-06-2019,8:57:00 PM,Cash,141.9,4.761904762,7.095,9.4
+811-35-1094,Cairo,Mandalay,Member,Male,Electronic accessories,50.45,6,15.135,317.835,02-06-2019,3:16:00 PM,Credit card,302.7,4.761904762,15.135,8.9
+699-88-1972,Cairo,Mandalay,Normal,Male,Health and beauty,99.16,8,39.664,832.944,1/28/2019,5:47:00 PM,Credit card,793.28,4.761904762,39.664,4.2
+509-10-0516,Cairo,Mandalay,Normal,Male,Home and lifestyle,45.97,4,9.194,193.074,02-09-2019,12:02:00 PM,Ewallet,183.88,4.761904762,9.194,5.1
+851-98-3555,Cairo,Mandalay,Normal,Female,Health and beauty,82.88,5,20.72,435.12,3/24/2019,2:08:00 PM,Credit card,414.4,4.761904762,20.72,6.6
+624-01-8356,Cairo,Mandalay,Normal,Female,Home and lifestyle,49.01,10,24.505,514.605,1/27/2019,10:44:00 AM,Credit card,490.1,4.761904762,24.505,4.2
+313-66-9943,Cairo,Mandalay,Member,Female,Food and beverages,29.15,3,4.3725,91.8225,3/27/2019,8:29:00 PM,Credit card,87.45,4.761904762,4.3725,7.3
+777-67-2495,Cairo,Mandalay,Normal,Male,Home and lifestyle,68.97,3,10.3455,217.2555,2/22/2019,11:26:00 AM,Ewallet,206.91,4.761904762,10.3455,8.7
+636-98-3364,Cairo,Mandalay,Member,Female,Electronic accessories,26.26,3,3.939,82.719,03-02-2019,12:36:00 PM,Ewallet,78.78,4.761904762,3.939,6.3
+181-82-6255,Cairo,Mandalay,Normal,Female,Home and lifestyle,16.37,6,4.911,103.131,02-08-2019,10:58:00 AM,Cash,98.22,4.761904762,4.911,7
+226-34-0034,Cairo,Mandalay,Normal,Female,Electronic accessories,13.78,4,2.756,57.876,01-10-2019,11:10:00 AM,Ewallet,55.12,4.761904762,2.756,9
+321-49-7382,Cairo,Mandalay,Member,Male,Sports and travel,88.31,1,4.4155,92.7255,2/15/2019,5:38:00 PM,Credit card,88.31,4.761904762,4.4155,5.2
+431-66-2305,Cairo,Mandalay,Normal,Female,Electronic accessories,88.25,9,39.7125,833.9625,2/15/2019,8:51:00 PM,Credit card,794.25,4.761904762,39.7125,7.6
+825-94-5922,Cairo,Mandalay,Normal,Male,Sports and travel,25.31,2,2.531,53.151,03-02-2019,7:26:00 PM,Ewallet,50.62,4.761904762,2.531,7.2
+641-62-7288,Cairo,Mandalay,Normal,Male,Home and lifestyle,99.92,6,29.976,629.496,3/24/2019,1:33:00 PM,Ewallet,599.52,4.761904762,29.976,7.1
+501-61-1753,Cairo,Mandalay,Normal,Female,Home and lifestyle,63.15,6,18.945,397.845,01-03-2019,8:24:00 PM,Ewallet,378.9,4.761904762,18.945,9.8
+676-10-2200,Cairo,Mandalay,Member,Male,Fashion accessories,53.78,1,2.689,56.469,02-03-2019,8:13:00 PM,Ewallet,53.78,4.761904762,2.689,4.7
+365-16-4334,Cairo,Mandalay,Normal,Female,Food and beverages,26.43,8,10.572,222.012,2/24/2019,2:26:00 PM,Ewallet,211.44,4.761904762,10.572,8.9
+503-21-4385,Cairo,Mandalay,Member,Male,Health and beauty,39.91,3,5.9865,125.7165,2/21/2019,12:40:00 PM,Ewallet,119.73,4.761904762,5.9865,9.3
+305-89-2768,Cairo,Mandalay,Member,Female,Home and lifestyle,21.9,3,3.285,68.985,01-09-2019,6:43:00 PM,Ewallet,65.7,4.761904762,3.285,4.7
+574-80-1489,Cairo,Mandalay,Member,Female,Food and beverages,62.85,4,12.57,263.97,2/25/2019,1:22:00 PM,Ewallet,251.4,4.761904762,12.57,8.7
+200-40-6154,Cairo,Mandalay,Member,Male,Home and lifestyle,65.91,6,19.773,415.233,02-09-2019,11:45:00 AM,Cash,395.46,4.761904762,19.773,5.7
+430-02-3888,Cairo,Mandalay,Normal,Male,Electronic accessories,46.02,6,13.806,289.926,02-07-2019,3:55:00 PM,Cash,276.12,4.761904762,13.806,7.1
+794-42-3736,Cairo,Mandalay,Normal,Male,Food and beverages,33.33,2,3.333,69.993,1/26/2019,2:41:00 PM,Credit card,66.66,4.761904762,3.333,6.4
+172-42-8274,Cairo,Mandalay,Normal,Female,Electronic accessories,38.27,2,3.827,80.367,03-02-2019,6:18:00 PM,Credit card,76.54,4.761904762,3.827,5.8
+214-30-2776,Cairo,Mandalay,Member,Female,Electronic accessories,34.49,5,8.6225,181.0725,03-11-2019,7:44:00 PM,Credit card,172.45,4.761904762,8.6225,9
+746-04-1077,Cairo,Mandalay,Member,Female,Food and beverages,84.63,10,42.315,888.615,01-01-2019,11:36:00 AM,Credit card,846.3,4.761904762,42.315,9
+448-34-8700,Cairo,Mandalay,Member,Male,Home and lifestyle,36.91,7,12.9185,271.2885,02-10-2019,1:51:00 PM,Ewallet,258.37,4.761904762,12.9185,6.7
+452-04-8808,Cairo,Mandalay,Normal,Male,Electronic accessories,87.08,7,30.478,640.038,1/26/2019,3:17:00 PM,Cash,609.56,4.761904762,30.478,5.5
+883-69-1285,Cairo,Mandalay,Member,Male,Fashion accessories,49.92,2,4.992,104.832,03-06-2019,11:55:00 AM,Credit card,99.84,4.761904762,4.992,7
+518-71-6847,Cairo,Mandalay,Member,Male,Food and beverages,26.6,6,7.98,167.58,2/26/2019,3:10:00 PM,Ewallet,159.6,4.761904762,7.98,4.9
+156-20-0370,Cairo,Mandalay,Normal,Female,Electronic accessories,25.45,1,1.2725,26.7225,03-10-2019,6:10:00 PM,Credit card,25.45,4.761904762,1.2725,5.1
+151-33-7434,Cairo,Mandalay,Normal,Female,Food and beverages,67.77,1,3.3885,71.1585,02-04-2019,8:43:00 PM,Credit card,67.77,4.761904762,3.3885,6.5
+374-38-5555,Cairo,Mandalay,Normal,Female,Fashion accessories,63.71,5,15.9275,334.4775,02-07-2019,7:30:00 PM,Ewallet,318.55,4.761904762,15.9275,8.5
+764-44-8999,Cairo,Mandalay,Normal,Female,Health and beauty,14.76,2,1.476,30.996,2/18/2019,2:42:00 PM,Ewallet,29.52,4.761904762,1.476,4.3
+552-44-5977,Cairo,Mandalay,Member,Male,Health and beauty,62,8,24.8,520.8,01-03-2019,7:08:00 PM,Credit card,496,4.761904762,24.8,6.2
+430-53-4718,Cairo,Mandalay,Member,Male,Health and beauty,75.37,8,30.148,633.108,1/28/2019,3:46:00 PM,Credit card,602.96,4.761904762,30.148,8.4
+602-16-6955,Cairo,Mandalay,Normal,Female,Sports and travel,76.6,10,38.3,804.3,1/24/2019,6:10:00 PM,Ewallet,766,4.761904762,38.3,6
+690-01-6631,Cairo,Mandalay,Normal,Male,Fashion accessories,17.49,10,8.745,183.645,2/22/2019,6:35:00 PM,Ewallet,174.9,4.761904762,8.745,6.6
+303-96-2227,Cairo,Mandalay,Normal,Female,Home and lifestyle,97.38,10,48.69,1022.49,03-02-2019,5:16:00 PM,Ewallet,973.8,4.761904762,48.69,4.4
