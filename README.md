@@ -56,7 +56,7 @@ Execute the job via the AWS Glue console, CLI, or trigger-based workflow.
 - writetoredshiftdbfromstaging() -> Loads the final DataFrame into Redshift via staging and upserts.
 
 ## Security & IAM
-- Ensure IAM roles assigned to Glue have permissions to:
--- Read from S3
--- Write to Redshift
--- Assume necessary Redshift access policies
+Ensure IAM roles assigned to Glue have permissions to:
+- Read from S3
+- Write to Redshift
+- Assume necessary Redshift access policies
