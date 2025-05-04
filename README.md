@@ -60,3 +60,7 @@ Ensure IAM roles assigned to Glue have permissions to:
 - Read from S3
 - Write to Redshift
 - Assume necessary Redshift access policies
+
+
+## Author
+Shailesh Mistry – [LinkedIn](https://www.linkedin.com/in/shailesh-mistry-a346659)
