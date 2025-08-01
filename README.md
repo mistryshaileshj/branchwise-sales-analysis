@@ -1,11 +1,12 @@
 # AWS Glue ETL Pipeline for Sales Data Processing and Redshift Integration
 
 ## Overview
-This project is an AWS Glue-based ETL (Extract, Transform, Load) pipeline that processes sales data from CSV files stored in Amazon S3, performs various data cleaning and transformation tasks using Apache Spark (via PySpark), and loads the refined data into Amazon Redshift for downstream analytics and reporting.
+This project is an AWS Glue-based ETL (Extract, Transform, Load) pipeline that consolidated and processes branch wise sales data from CSV files stored in Amazon S3, performs various data cleaning and transformation tasks using Apache Spark (via PySpark), and loads the refined data into Amazon Redshift for downstream analytics and reporting.
 
 ##  Features
-- Reads raw CSV files from S3 using AWS Glue and PySpark.
+- Reads raw CSV files from multiple folders using S3.
 - Adds source metadata (filename) to each record.
+- Runs ETL tasks to consildate data using Glue and PySpark.
 - Cleans and transforms fields including date/time formatting and column renaming.
 - Performs basic exploratory data analysis:
   - Schema inspection
@@ -63,4 +64,4 @@ Ensure IAM roles assigned to Glue have permissions to:
 
 
 ## Author
-Shailesh Mistry – [LinkedIn](https://www.linkedin.com/in/shailesh-mistry-a346659)
+Shailesh Mistry – [LinkedIn](https://www.linkedin.com/in/shailesh-mistry-a346659
