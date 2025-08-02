@@ -27,7 +27,7 @@ sc = SparkContext()
 glueContext = GlueContext(sc)
 spark = glueContext.spark_session
 
-# 👇 Set legacy date/time parser policy
+# Set legacy date/time parser policy
 spark.conf.set("spark.sql.legacy.timeParserPolicy", "LEGACY")
 
 # Setup logger manually
@@ -306,4 +306,5 @@ def timebasedanalysis(dtframe):
     sales_by_branch.show()
 
 if __name__ == '__main__':
+
     main()
